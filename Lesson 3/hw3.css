@@ -1,0 +1,45 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 0;
+  display: flex;
+
+}
+p, h3{
+  margin: 0;
+}
+.section{
+
+}
+div{
+  text-align: center;
+  padding: 60px;
+}
+a{
+  font-size: 50px;
+  text-decoration: none;
+  color: inherit;
+
+}
+
+#red_title{
+  font-size: 25px;
+  height: 100vh;
+  background-color: #980e0e;
+
+
+}
+#blue_title{
+   font-size: 25px;
+  height: 100vh;
+  background-color: #49cee0;
+
+}
+#green_title{
+    font-size: 25px;
+  height: 100vh;
+  background-color: #13980e;
+
+}

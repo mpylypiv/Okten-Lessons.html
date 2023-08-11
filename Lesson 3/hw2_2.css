@@ -1,0 +1,43 @@
+body{
+  margin: 0;
+  font-family: 'Jost', sans-serif;
+}
+
+header{
+  height: 20vh;
+  color: #535151;
+  background: rgba(83, 81, 81, 0.10);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+a{
+  text-decoration: none;
+  color: #7A7070;
+  font-size: 35px;
+  margin: 80px;
+
+}
+.active_link{
+  color: cornflowerblue;
+}
+
+h2{
+  font-size: 70px;
+}
+p{
+  font-size: 35px;
+}
+main {
+  display: flex;
+}
+
+.text{
+  background-color: white;
+  margin-right: 120px;
+  margin-left: 350px;
+
+}
+
+
+

@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+
+}
+.Nav{
+  width: 100vw;
+  height: 10vh;
+  background-color: #D9D9D9;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}
+
+.blocs{
+  display: flex;
+}
+
+.section1{
+  width: 34vw;
+  height: 80vh;
+  background-color: #A9A8A8;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}
+.section2{
+  width: 34vw;
+  height: 80vh;
+  background-color: #817B7B;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}
+.section3{
+  width: 34vw;
+  height: 80vh;
+  background-color: #544F4F;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}
+.footer{
+  width: 100vw;
+  height: 10vh;
+  background-color: #B8B3B3;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}
+

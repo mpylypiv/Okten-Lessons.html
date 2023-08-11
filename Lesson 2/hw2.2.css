@@ -1,0 +1,22 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  transition: 2s;
+
+}
+.main{
+  width: 100%;
+  height: 200px;
+  background-color: #888888;
+
+}
+
+#b1:hover, #b2:hover, #b3:hover, #b4:hover, #b5:hover, #b6:hover{
+  background-color: red;
+  transition: 2s;
+  border-radius: 50%;
+}

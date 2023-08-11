@@ -1,0 +1,95 @@
+input{
+  margin: 10px 0;
+
+}
+body{
+  display: flex;
+  justify-content: center ;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+#user{
+  font-size: 20px;
+  width: 400px;
+  height: 50px;
+  padding-left: 15px;
+  background-color: #f3f3f3;
+  border-radius: 5px;
+}
+#password{
+  font-size: 20px;
+  width: 400px;
+  height: 50px;
+  padding-left: 15px;
+  background-color: #f3f3f3;
+  border-radius: 5px;
+}
+#button1 {
+  width: 420px;
+  height: 45px;
+  border: 0;
+  border-radius: 10px;
+  background-color: #61a7fd;
+  color: white;
+  font-size: 20px;
+
+}
+
+  .ABO{
+    text-align: center;
+    color: #888888;
+    font-size: 20px;
+
+
+  }
+  .broom{
+    width: 30px;
+    height: 30px;
+    padding-right: 20px;
+
+
+  }
+  .block1{
+    display: flex;
+    color: #123b6e;
+    font-size: 25px;
+    justify-content: center ;
+    align-items: center;
+
+
+  }
+
+.forgotten{
+  color: #123b6e;
+  font-size: 25px;
+
+  margin-block: 50px;
+}
+
+.fb {
+  color: #123b6e;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: #a9a9a9 1px solid;
+  flex-direction: column;
+  padding: 40px;
+}
+.non{
+  border: #a9a9a9 1px solid;
+  padding: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  margin: 25px;
+
+}
+
+
+
+
